@@ -32,7 +32,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanaKravchenko&layout=compact)](https://github.com/RuslanaKravchenko/github-readme-stats)
 
-[![RuslanaKravchenko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RuslanaKravchenko)](https://github.com/RuslanaKravchenko/github-readme-stats)
 
 
 
