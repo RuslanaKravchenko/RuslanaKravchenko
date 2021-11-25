@@ -1,4 +1,4 @@
-### Hi there, I'm Ruslana 👋
+### Hi there, I'm Ruslana 👋  [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/ruslana-kravchenko/)
 
 - 📫 How to reach me: **ruslana.kravchenko24@gmail.com**
   
