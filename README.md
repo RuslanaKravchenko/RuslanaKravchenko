@@ -34,7 +34,7 @@
 
 <!--[![RuslanaKravchenko`s github stats](https://github-readme-stats.vercel.app/api?username=RuslanaKravchenko&show_icons=true&theme=dracula)](https://github.com/RuslanaKravchenko/github-readme-stats)   -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanaKravchenko&layout=compact&langs_count=10)](https://github.com/RuslanaKravchenko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanaKravchenko&layout=compact&langs_count=8)](https://github.com/RuslanaKravchenko/github-readme-stats)
 
 
 
